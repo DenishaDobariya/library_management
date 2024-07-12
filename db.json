@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "201",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": "1960"
+    },
+    {
+      "id": "629",
+      "title": " The Great Gatsby",
+      "author": "Scott Fitzgerald",
+      "genre": "Magical Realism",
+      "year": "1999"
+    },
+    {
+      "id": "626",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": "1851"
+    },
+    {
+      "id": "987",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological Fiction",
+      "year": "1866"
+    },
+    {
+      "id": "905",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": "1892"
+    },
+    {
+      "id": "097",
+      "title": "The Lord of the Rings",
+      "author": " J.R.R. Tolkien",
+      "genre": " Fantasy",
+      "year": "1954"
+    }
+  ]
+}
